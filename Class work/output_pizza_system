@@ -1,0 +1,89 @@
+=============== RESTART: C:/Users/DELL/Desktop/pizzasystem.py ===============
+
+		Welcome to Amazing Pizza and Pasta Pizzeria
+
+ press 1 : order menu
+
+ press 2 : Exit
+
+Enter your choice :1
+
+ 1 large pizza = 10.99 AUD 
+
+ 2 large Pizzas = 20.99 AUD 
+
+ 3 Large Pizzas = 29.99 AUD
+
+ ***Buy 4 or more pizza and get 1.5lt of soft drink free***
+
+
+1 large pasta = 9.5 AUD 
+
+2 large pastas = 17.00 AUD 
+
+3 large pastas = 27.50 AUD
+
+***Buy 4 or more pastas and get 2 bruschetta free.***
+
+***Buy 4 or more pizzas and pastas and get 2 chocco brownies ice cream free.
+
+--------------------------------
+
+Enter your name : Anjali
+	
+ Welcome,  Anjali
+Enter number or pizza order you want :4
+
+	 your pizza order amount is : 43.96
+
+		 *** Congratulations !! 1.5lt softdrink free *** 
+Enter number or pasta order you want :6
+
+	 your pasta order amount is : 57.0
+
+		 *** Congratulations !! get 2 bruschetta free *** 
+
+		 *** Congratulations !! get 2 chocco brownies ice cream free *** 
+
+ your total order is :  100.96000000000001
+
+-----> your Net order amount of the day is :  100.96000000000001
+
+ want to enter order from another customer (Y/N) : Y
+Enter your name : enji
+	
+ Welcome,  enji
+Enter number or pizza order you want :4
+
+	 your pizza order amount is : 43.96
+
+		 *** Congratulations !! 1.5lt softdrink free *** 
+Enter number or pasta order you want :3
+
+	 your pasta order amount is : 27.0
+
+ your total order is :  70.96000000000001
+
+-----> your Net order amount of the day is :  171.92000000000002
+
+ want to enter order from another customer (Y/N) : N
+
+----------- Pizza and pasta Bill --------------
+
+
+ payment received from pizza :  87.92
+
+ payment received from pasta :  84.0
+
+ payment received today :  171.92000000000002
+
+ Number of pizza and pasta sold in one shift :  17
+
+ Number of 1.5lt soft drink bottles given :  2
+
+ Number of bruschetta given to customer : 2
+
+ Number of chocco brownies ice cream given to customer : 2
+
+ Bye Bye !!!
+>>> 
